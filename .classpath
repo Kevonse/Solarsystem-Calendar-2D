@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Skrum_000/Documents/Skole/External Java Libraries/JDateChooser_by_Kai_Toedter/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Skrum_000/Documents/Skole/External Java Libraries/JDateChooser_by_Kai_Toedter/lib/jgoodies-common-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Skrum_000/Documents/Skole/External Java Libraries/JDateChooser_by_Kai_Toedter/lib/jgoodies-looks-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Skrum_000/Documents/Skole/External Java Libraries/JDateChooser_by_Kai_Toedter/lib/junit-4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Skrum_000/Documents/Skole/External Java Libraries/joda-time-2.2-dist/joda-time-2.2/joda-time-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Skrum_000/Documents/Skole/External Java Libraries/joda-time-2.2-dist/joda-time-2.2/joda-time-2.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Skrum_000/Documents/Skole/External Java Libraries/joda-time-2.2-dist/joda-time-2.2/joda-time-2.2-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
